@@ -1,6 +1,3 @@
-# EmotionGPT
-EmotionGPT is a fine-tuned GPT-2 model designed for emotion classification. It leverages the power of OpenAI's GPT-2 architecture to analyze and classify text into distinct emotional categories.
-
 # Emotion Classification Using a Fine-Tuned GPT-2 Model
 
 This repository contains a fine-tuned GPT-2 model for emotion classification. The model has been trained on a specific dataset to classify text into distinct emotional categories.
