@@ -24,9 +24,8 @@ Emotion classification is an important task in natural language processing (NLP)
 
 ## Dataset
 
-- **Source**: [Provide the name of the dataset and a link to it, e.g., Kaggle, Hugging Face, or another repository].
-- **Description**: The dataset contains labeled text data for emotions such as happiness, sadness, anger, and others. It is publicly available for research and educational purposes.
-- **License**: [Mention dataset license details, if applicable].
+- **Source**: https://huggingface.co/datasets/SetFit/go_emotions.
+- **Description**: The dataset contains labeled text data for emotions such as happiness, sadness, anger, and others.
 
 ---
 
@@ -39,20 +38,10 @@ The base GPT-2 model was fine-tuned using transfer learning techniques. Here are
   - Optimized with [specific optimizer].
   - Used [library or framework, e.g., Hugging Face Transformers, PyTorch].
   - Training took [mention training duration or number of epochs].
-- **Performance Metrics**:
-  - Achieved an accuracy of [X]% on the validation set.
-  - Loss value: [Include if relevant].
+- **Result**:
+  - Used F1 score, and the final result was 0.899912 with 0.112300 training loss.
 
 ---
 
-## Usage
-
 ### Requirements
 - Python >= 3.8
-- Libraries: `transformers`, `torch`, etc.
-
-### Quick Start
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/emotion-classification-gpt2.git
-   cd emotion-classification-gpt2
