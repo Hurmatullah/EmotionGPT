@@ -34,10 +34,6 @@ Emotion classification is an important task in natural language processing (NLP)
 The base GPT-2 model was fine-tuned using transfer learning techniques. Here are the details:
 
 - **Pre-trained Model**: GPT-2 (OpenAI's pre-trained transformer model).
-- **Fine-Tuning Methodology**:
-  - Optimized with [specific optimizer].
-  - Used [library or framework, e.g., Hugging Face Transformers, PyTorch].
-  - Training took [mention training duration or number of epochs].
 - **Result**:
   - Used F1 score, and the final result was 0.899912 with 0.112300 training loss.
 
