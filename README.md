@@ -8,11 +8,7 @@ This repository contains a fine-tuned GPT-2 model for emotion classification. Th
 1. [About the Project](#about-the-project)
 2. [Dataset](#dataset)
 3. [Model Fine-Tuning](#model-fine-tuning)
-4. [Usage](#usage)
-5. [Installation](#installation)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
+4. [Requirements](#requirements)
 
 ---
 
@@ -39,5 +35,5 @@ The base GPT-2 model was fine-tuned using transfer learning techniques. Here are
 
 ---
 
-### Requirements
+## Requirements
 - Python >= 3.8
