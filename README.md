@@ -40,4 +40,4 @@ The base GPT-2 model was fine-tuned using transfer learning techniques. Here are
 
 ## Note
 - Trained in less amount of epochs due to lack of GPU, but it would be better to have GPU and increase amount of epochs during
-training model.
+training model to make model more wise.
